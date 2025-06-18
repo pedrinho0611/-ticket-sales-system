@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
-$db   = 'nome_do_banco';
-$user = 'usuario';
-$pass = 'senha';
+$host = 'sql304.infinityfree.com';
+$db   = 'if0_39262841_venda';
+$user = 'if0_39262841';
+$pass = 'PEDRo280817';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
